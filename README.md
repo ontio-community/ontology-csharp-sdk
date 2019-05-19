@@ -5,7 +5,6 @@
 This C# SDK aims to help .NET developers when writing applications for the Ontology Blockchain.  
 
 
-<br><br>
 ## Setup / Usage
 
 Requires .NET v4.7
@@ -48,7 +47,7 @@ int BlockHeight = ontSDK.connectionManager.getBlockHeight();
 
 See more code examples in `ontology-csharp-demo` project
 
-<br><br>
+
 ## Methods
 
 All RPC, REST and Websocket methods implemented by the Ontology network are available via this SDK, for a list of each based on connection method, see below:
@@ -57,10 +56,7 @@ REST:      https://github.com/ontio/documentation/blob/master/docs/pages/doc_en/
 RPC:       https://github.com/ontio/documentation/blob/master/docs/pages/doc_en/ontrpcapi_en.md<br>
 Websocket: https://github.com/ontio/documentation/blob/master/docs/pages/doc_en/websocket_en.md<br>
 
-<br><br>
 
-
-<br><br>
 ## Current Contributors
 
 - xizho10
